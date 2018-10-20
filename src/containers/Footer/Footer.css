@@ -1,0 +1,18 @@
+a {
+    color: black !important;
+    font-size: 18px;
+    padding: 0px 10px;
+  }
+  
+  a, p {
+    color: white !important;
+  }
+  
+  .social {
+    text-align: right;
+  }
+  
+  footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
