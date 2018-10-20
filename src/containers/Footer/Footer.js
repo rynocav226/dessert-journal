@@ -13,7 +13,6 @@ class Footer extends React.Component {
             <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12 social">
               <a href="https://twitter.com/jfuenmayor96">Twitter</a>
               <a href="https://github.com/jfuenmayor96">Github</a>
-              <a href="https://steemit.com/@jfuenmayor96">Steemit</a>
             </div>
           </footer>
         </div>
